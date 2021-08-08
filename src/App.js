@@ -1,6 +1,6 @@
 import "./App.css";
 
-function App() {
+export default function App() {
   return (
     <div class="container body">
       <div className="App">
@@ -69,5 +69,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
