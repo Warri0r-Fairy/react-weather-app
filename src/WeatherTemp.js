@@ -10,7 +10,7 @@ export default function WeatherTemp(props) {
 
   function convertToCelsius(event) {
     event.preventDefault();
-    setUnit("celsuis");
+    setUnit("celsius");
   }
 
   if (unit === "celsius") {
