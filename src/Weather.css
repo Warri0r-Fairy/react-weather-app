@@ -28,6 +28,12 @@
   margin-right: 5px;
 }
 
+.Weather .search-button {
+  background-color: #05b349;
+  color: white;
+  font-weight: bold;
+}
+
 .Weather .temp {
   font-size: 64px;
   font-weight: 400;
