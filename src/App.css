@@ -1,10 +1,14 @@
 .App {
-  max-width: 600px;
-  margin: 30px auto;
+  max-width: 900px;
+  margin: 0px auto;
+  background: linear-gradient(181deg, rgb(255, 236, 211) 0%, rgb(255, 176, 254) 100%);
+  color: #1b335f;
 }
 
 .App footer {
-  font-family: "Roboto, Helvetica Neue, Arial, sans-serif";
+  font-family: 'Source Code Pro', monospace;
   font-size: 11px;
   margin: 10px 0;
+  text-align: center;
+  color: #1b335f;
 }

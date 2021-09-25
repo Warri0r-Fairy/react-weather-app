@@ -14,7 +14,7 @@ export default function App() {
           >
             Code open-sourced
           </a>
-          <span> by Jacqui Lewis</span>
+          <span>  and hosted on Netlify by Jacqui Lewis</span>
         </footer>
       </div>
     </div>
